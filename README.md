@@ -1,0 +1,2 @@
+# mobirise-test
+GitHub Pages
